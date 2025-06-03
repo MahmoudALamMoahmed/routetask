@@ -1,10 +1,10 @@
 ### 🔗 Live Demo :
-routetaskk.netlify.app
+https://routetaskk.netlify.app/
 
 ### 🛠️ Installation :
 
 1. Clone the repository
-<pre lang="markdown">git clone [https://github.com/MahmoudALamMoahmed/TodoList.git](https://github.com/MahmoudALamMoahmed/routetask.git)</pre>
+<pre lang="markdown">git clone https://github.com/MahmoudALamMoahmed/routetask.git</pre>
 
 2. Navigate to the project directory
 
