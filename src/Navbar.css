@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+.navbar {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+/* nav links */
+.navbar .nav-link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding: 5px 10px;
+  transition: color 0.3s ease;
+}
+
+/* hover */
+.navbar .nav-link:hover {
+  color: #007bff;
+}
+
+/*nav link active*/
+.navbar .nav-link.active {
+  color: #007bff;
+  border-bottom: 2px solid #007bff;
+}
