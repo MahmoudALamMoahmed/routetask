@@ -8,7 +8,7 @@ https://todo-macoding.netlify.app/
 
 2. Navigate to the project directory
 
-<pre lang="markdown">cd TodoList</pre>
+<pre lang="markdown">cd routetask</pre>
 
 3. Install dependencies
 
